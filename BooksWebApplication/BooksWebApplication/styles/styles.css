@@ -1,0 +1,107 @@
+﻿body {
+    background-color:#778899;
+    color:#333;
+    font-family:Calibri,Arial;
+    font-size:20px;
+}
+
+table {
+    background-color:white;
+    border:1px solid #333;
+    padding:10px 20px 10px 20px;
+}
+
+td {
+    vertical-align:text-top;
+}
+
+#DivButtons{
+    text-align:center;
+}
+
+#DivError{
+    text-align:center;
+}
+
+#DivContainer {
+    width:80%;
+    padding:0px 20px 10px 30px;
+    background-color:whitesmoke;
+    border:2px solid black;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#DivBookFields{
+    margin-right:auto;
+    margin-left:auto;
+    width:800px;
+}
+
+#TblAddBooks{
+    width:930px
+}
+
+#TblTitles {
+    width:300px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#DivTableSmall{
+    margin-right:auto;
+    margin-left:auto;
+    width:400px;
+}
+
+.error{
+    color:red;
+    font-weight:bold;
+}
+
+.button {
+    color:lightcoral;
+    background-color:#333;
+    border:2px solid silver;
+    font-size:24px;
+    padding:3px 10px 3px 10px;
+    font-weight:bold;
+}
+.button:hover {
+    color:lightyellow;
+}
+.button:active {
+    color:white;
+}
+
+.center {
+    text-align:center;
+}
+.right{
+    text-align:right;
+}
+
+.white {
+    color:white;
+}
+
+.firstCell {
+    width:260px;
+}
+.secondCell {
+    width:20px;
+}
+.thirdCell {
+    width:300px;
+}
+.fourthCell {
+    width:170px;
+}
+
+.lightpink {
+    background-color:lightpink;
+}
+
+.pinkUnderline {
+    border-bottom:2px solid lightpink;
+}
